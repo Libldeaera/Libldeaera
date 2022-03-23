@@ -5,7 +5,7 @@
 ### Hi, I'm Atabey! 👋 ![Profile views](https://gpvc.arturio.dev/Libldeaera)
 
 #### 
-🔭 I'm working as a Data Analyst in the scope of AI Academy at Akbank. At the same time, I continue my education in Marmara University. 
+🔭 I'm working as a Data Analyst in the scope of AI Academy at Akbank. At the same time, I continue my course trainings with several software tool at Marmara University. 
 🌱 I like backend technologies.
 🤔 I love creating and contributing open source projects.
 
