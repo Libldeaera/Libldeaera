@@ -9,9 +9,9 @@
 🌱 I like backend technologies.
 🤔 I love creating and contributing open source projects.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Libldeaera&show_icons=true&theme=dark&count_private=FALSE)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Libldeaera&show_icons=true&theme=red&count_private=FALSE)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libldeaera&layout=compact&show_icons=true&theme=red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libldeaera&layout=compact&show_icons=true&theme=green)
 
 #### Most Recent REPO/Project:
 
