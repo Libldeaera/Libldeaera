@@ -15,5 +15,5 @@
 
 #### Most Recent REPO/Project:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Libldeaera&repo=Python-Training-For-Cybersecurity&show_owner=TRUE&show_icons=true&theme=blueviolet)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Libldeaera&repo=Python-Training-For-Cybersecurity&show_owner=TRUE&show_icons=true&theme=blue)
 
