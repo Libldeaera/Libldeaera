@@ -11,9 +11,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Libldeaera&show_icons=true&theme=dark&count_private=FALSE)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libldeaera&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libldeaera&layout=compact&show_icons=true&theme=red)
 
 #### Most Recent REPO/Project:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Libldeaera&repo=Python-Training-For-Cybersecurity&show_owner=TRUE&show_icons=true&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Libldeaera&repo=Python-Training-For-Cybersecurity&show_owner=TRUE&show_icons=true&theme=blueviolet)
 
