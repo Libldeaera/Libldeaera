@@ -1,6 +1,6 @@
 
 
-📫 How to contact or communicate with me: Linkedin--> https://www.linkedin.com/in/atabey-aydi
+📫 How to contact or communicate with me: Linkedin -> https://www.linkedin.com/in/atabey-aydi
 
 ### Hi, I'm Atabey! 👋 ![Profile views](https://gpvc.arturio.dev/atabeyaydi)
 
