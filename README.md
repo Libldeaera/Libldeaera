@@ -5,7 +5,7 @@
 ### Hi, I'm Atabey! 👋 ![Profile views](https://gpvc.arturio.dev/atabeyaydi)
 
 #### 
-🔭 I'm working as a Data Analyst in the scope of AI Academy at Akbank. At the same time, I continue my course trainings with several software tool at Marmara University. 
+🔭 I have worked as a Data Analyst on a project based on MS Azure ML Studio with the targeted subject of analyzing a dataset by making use of some classification methods implying Python and SQL programming languages and by implementing codes with analytical algorithms existing at AI Academy at Akbank. At the same time, I continue my course trainings with several software tool at Marmara University. 
 🌱 I like backend technologies.
 🤔 I love creating and contributing open source projects.
 
